@@ -1,7 +1,7 @@
 # machinelearning-knn-carvalue
 Using knn to predict car value
 
-Data originates from UCI Machine Learning Repository's Car Evaluation http://mlr.cs.umass.edu/ml/datasets/Car+Evaluation
+All data originates from UCI Machine Learning Repository's Car Evaluation http://mlr.cs.umass.edu/ml/datasets/Car+Evaluation
 
 I am writing this code to practice my knowledge of knn
 
